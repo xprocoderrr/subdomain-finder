@@ -89,19 +89,3 @@ Feel free to fork this repository and submit pull requests for any improvements.
 This project was created to automate the process of finding subdomains of a given domain and provide detailed information about them. It's useful for penetration testing, security assessments, or general curiosity about a domain's infrastructure.
 ```
 
-### **Penjelasan Markdown:**
-
-- **`#` dan `##`**: Digunakan untuk membuat judul dan subjudul.
-- **`-` dan `*`**: Untuk membuat daftar item (bullet points).
-- **```bash** dan **```**: Menampilkan kode atau perintah terminal.
-- **`![Screenshot](screenshot.png)`**: Untuk menambahkan gambar screenshot dari aplikasi.
-- **`[LICENSE](LICENSE)`**: Untuk menautkan file lisensi jika ada di repositori Anda.
-
-### **Cara Menggunakan**
-
-1. Copy seluruh konten di atas.
-2. Buat atau edit file `README.md` di repositori GitHub Anda.
-3. Paste konten ke dalam file `README.md`.
-4. **Commit dan push** perubahan ke repositori Anda.
-
-Jika Anda membutuhkan penyesuaian lebih lanjut atau ada hal lain yang ingin ditambahkan, beri tahu saya!
